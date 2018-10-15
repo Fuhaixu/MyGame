@@ -1,4 +1,6 @@
-# Puzzle pingtu2017_8_27
+#小游戏项目的说明
+
+# puzzle pingtu2017_8_27
 c语言制作，逆序数曼哈顿距离
 vs2013,easyx
 
