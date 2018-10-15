@@ -1,0 +1,12 @@
+﻿生成启动时间为 2017/8/27 23:17:57。
+     1>项目“G:\c\pingtu2017_8_27\pingtu2017_8_27\pingtu2017_8_27.vcxproj”在节点 2 上(ClCompile 个目标)。
+     1>ClCompile:
+         F:\we\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt puzzle.cpp
+         puzzle.cpp
+     1>puzzle.cpp(116): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _getch. See online help for details.
+                 F:\we\VC\include\conio.h(131) : 参见“getch”的声明
+     1>已完成生成项目“G:\c\pingtu2017_8_27\pingtu2017_8_27\pingtu2017_8_27.vcxproj”(ClCompile 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:00.52
